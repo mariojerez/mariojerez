@@ -7,6 +7,6 @@ I am a PhD student in Computer Science at the University of Minnesota, advised b
 - 📫 How to reach me: jerez005@umn.edu
 - 😄 Pronouns: they/them
 - 💬 Non-Programming Languages: English, Spanish
-- ⚡ Current contributions: Adding a [feature I proposed to Gymnasium](https://github.com/Farama-Foundation/Gymnasium/pull/1296), an open source Python library for Reinforcement Learning
+<!-- - ⚡ Current contributions: Adding a [feature I proposed to Gymnasium](https://github.com/Farama-Foundation/Gymnasium/pull/1296), an open source Python library for Reinforcement Learning -->
 <!-- 🤔 I’m looking for help with ... -->
 <!-- 💬 Ask me about ... -->
